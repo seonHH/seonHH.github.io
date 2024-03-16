@@ -1,7 +1,8 @@
-<<<<<<< HEAD
 # seonHH.github.io
 
-=======
+<details>
+<summary> theme : Not Pure Poole</summary>
+
 # Not Pure Poole <!-- omit in toc -->
 
 <a href="https://jekyll-themes.com">
@@ -22,21 +23,22 @@ See Not Pure Poole in action with [the demo site](https://vszhub.github.io/not-p
 
 ## Table of Contents <!-- omit in toc -->
 
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-  - [Configuration](#configuration)
-  - [Customizing Head](#customizing-head)
-  - [Creating Themes](#creating-themes)
-  - [Customizing Navigation](#customizing-navigation)
-  - [Customizing Cover Image](#customizing-cover-image)
-  - [Customizing Social Links](#customizing-social-links)
-  - [Enabling Posts Archive](#enabling-posts-archive)
-  - [Enabling TOC](#enabling-toc)
-  - [Enabling MathJax](#enabling-mathjax)
-  - [Something More](#something-more)
-- [Development](#development)
-- [License](#license)
+- [seonHH.github.io](#seonhhgithubio)
+  - [Features](#features)
+  - [Installation](#installation)
+  - [Usage](#usage)
+    - [Configuration](#configuration)
+    - [Customizing Head](#customizing-head)
+    - [Creating Themes](#creating-themes)
+    - [Customizing Navigation](#customizing-navigation)
+    - [Customizing Cover Image](#customizing-cover-image)
+    - [Customizing Social Links](#customizing-social-links)
+    - [Enabling Posts Archive](#enabling-posts-archive)
+    - [Enabling TOC](#enabling-toc)
+    - [Enabling MathJax](#enabling-mathjax)
+    - [Something More](#something-more)
+  - [Development](#development)
+  - [License](#license)
 
 ## Features
 
@@ -215,3 +217,5 @@ To add a custom directory to your theme-gem, please edit the regexp in `not-pure
 
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
 >>>>>>> master
+
+</details>
