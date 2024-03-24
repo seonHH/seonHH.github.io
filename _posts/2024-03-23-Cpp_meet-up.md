@@ -2,7 +2,7 @@
 layout: post
 title: C++ Korea 2024 Meet-up
 date: 2024-03-23 00:00 +0900
-tags: try
+tags: record 
 ---
 
 # C++ Korea 2024 Meet-up
